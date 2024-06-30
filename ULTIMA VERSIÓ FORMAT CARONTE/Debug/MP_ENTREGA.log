@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\NedalMB\source\repos\MP_ENTREGA\Chessboard.hpp(485,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NedalMB\source\repos\MP_ENTREGA\main.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NedalMB\source\repos\MP_ENTREGA\main.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NedalMB\source\repos\MP_ENTREGA\main.cpp(359,13): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  MP_ENTREGA.vcxproj -> C:\Users\NedalMB\source\repos\MP_ENTREGA\Debug\MP_ENTREGA.exe

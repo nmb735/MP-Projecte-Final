@@ -1,0 +1,17 @@
+﻿  NFont.cpp
+  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  CurrentGame.cpp
+  GraphicManager.cpp
+\\Mac\Home\Desktop\Segona entrega-2\0. C++ Code\Logic Game\GraphicManager.cpp(28,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Desktop\Segona entrega-2\0. C++ Code\Logic Game\GraphicManager.cpp(28,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  SDL_FontCache.c
+  MP_Practica.vcxproj -> \\Mac\Home\Desktop\Segona entrega-2\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
